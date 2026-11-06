@@ -1,0 +1,16 @@
+{
+  "name": "Laura’s Super Sudoku",
+  "short_name": "Laura’s Sudoku",
+  "description": "Sudoku mit niedlichen Tieren statt Zahlen. Version 1.1, Stand 06.11.2026, Christian Stephan.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffe4ef",
+  "theme_color": "#f7c6dc",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
